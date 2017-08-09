@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+    
+    <entry>
+      <title><![CDATA[使用markdown语法练习]]></title>
+      <url>/2017/08/01/useMarkDown/</url>
+      <content type="html"><![CDATA[<h1 id="你好MarkDownPad2"><a href="#你好MarkDownPad2" class="headerlink" title="你好MarkDownPad2"></a>你好MarkDownPad2</h1><h1 id="This-is-H1A-啊"><a href="#This-is-H1A-啊" class="headerlink" title="This is H1A 啊"></a>This is H1A 啊</h1><h2 id="This-is-H2A-啊-我他妈的自己带分割线"><a href="#This-is-H2A-啊-我他妈的自己带分割线" class="headerlink" title="This is H2A 啊 我他妈的自己带分割线"></a>This is H2A 啊 我他妈的自己带分割线</h2><h3 id="This-is-H3A-啊"><a href="#This-is-H3A-啊" class="headerlink" title="This is H3A 啊"></a>This is H3A 啊</h3><h4 id="This-is-H4A-啊"><a href="#This-is-H4A-啊" class="headerlink" title="This is H4A 啊"></a>This is H4A 啊</h4><h6 id="This-is-H5A-啊"><a href="#This-is-H5A-啊" class="headerlink" title="This is H5A 啊"></a>This is H5A 啊</h6><hr>
+<p><img src="http://otoqommvz.bkt.clouddn.com/weijuchiluntu.jpg" alt="this is a pic">     </p>
+<h3 id="this-is-a-image"><a href="#this-is-a-image" class="headerlink" title="this is a image"></a>this is a image</h3><hr>
+<p><em>床前明月光</em></p>
+<p><em>疑是地上霜</em></p>
+<hr>
+<pre><code>ddd   this is &quot;code&quot;
+</code></pre><hr>
+<blockquote>
+<p>1234321 “this is quote”</p>
+</blockquote>
+<hr>
+<p><a href="http://www.baidu.com" title="百度一下" target="_blank" rel="external">http://www.baidu.com</a></p>
+<hr>
+<ul>
+<li>1</li>
+<li>2</li>
+<li>3</li>
+</ul>
+<hr>
+]]></content>
+      
+        
+        <tags>
+            
+            <tag> Test </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Hello text3]]></title>
+      <url>/2017/07/31/text3/</url>
+      <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+]]></content>
+      
+        
+        <tags>
+            
+            <tag> 222 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Hello text2]]></title>
+      <url>/2017/07/26/text2/</url>
+      <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+]]></content>
+      
+        
+        <tags>
+            
+            <tag> Test </tag>
+            
+            <tag> Life </tag>
+            
+        </tags>
+        
+    </entry>
+    
+  
+  
+</search>
